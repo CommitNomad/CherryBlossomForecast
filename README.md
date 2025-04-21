@@ -30,7 +30,24 @@ Tree was captured at 2025.03.23 next to S06 building at Suenghak Campus of Dong-
 - `busan_bloom_dates.csv` — Historical bloom data
 - `myplot.png` — Visual of prediction
 
+## 📦 Installation
+
+Create a virtual environment (optional but recommended):
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use: .\venv\Scripts\activate
+'''
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+'''
+
 ## How to Run
 
 ```bash
 python main.py
+'''
+
