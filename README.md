@@ -16,11 +16,11 @@ A simple Python project that predicts cherry blossom bloom dates in Busan using 
 ## 📊 Example Plot
 
 
-![Cherry Blossom Forecast Plot](myplot.png)
+![Cherry Blossom Forecast Plot](images/myplot.png)
 
 ## 🌸 Personal Observation
 
-![Alt Text](https://dongaackr-my.sharepoint.com/:i:/g/personal/2572897_donga_ac_kr/ES6aRVay5Q1Ji0yNYPCuf7wB_yJQoJ08kK5lMNCuyXHEFA?e=lly9nE)
+![Busan Cherry Blossom](images/IMG_0549.JPG)
 
 Tree was captured at 2025.03.23 near to S06 building at Suenghak Campus of Dong-A Unoversity
 
