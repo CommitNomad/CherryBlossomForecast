@@ -13,6 +13,16 @@ A simple Python project that predicts cherry blossom bloom dates in Busan using 
 
 🌸 Predicted Cherry Blossom Day for 2025: March 22
 
+## 📊 Example Plot
+
+![Cherry Blossom Forecast Plot](myplot.png)
+
+## 📁 Files
+
+- `main.py` — Main code
+- `busan_bloom_dates.csv` — Historical bloom data
+- `myplot.png` — Visual of prediction
+
 ## How to Run
 
 ```bash
