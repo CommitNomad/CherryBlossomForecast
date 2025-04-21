@@ -22,7 +22,7 @@ A simple Python project that predicts cherry blossom bloom dates in Busan using 
 
 ![Busan Cherry Blossom](images/IMG_0549.JPG)
 
-Tree was captured at 2025.03.23 near to S06 building at Suenghak Campus of Dong-A Unoversity
+Tree was captured at 2025.03.23 next to S06 building at Suenghak Campus of Dong-A Unoversity
 
 ## 📁 Files
 
